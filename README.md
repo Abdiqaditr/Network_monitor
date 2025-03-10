@@ -31,9 +31,7 @@ Network Monitor is an Android application that dynamically detects network state
    - Use the **"Network Settings"** button to directly access your device's network settings.
 
 ## Screenshots
-![screenshot](https://github.com/user-attachments/assets/ecc2cadf-de01-4581-9f93-93aa0f664300)
-
-![screenshot_2](https://github.com/user-attachments/assets/a5204373-266f-4a77-a567-f241449bf213)
+![screenshot_ui](https://github.com/user-attachments/assets/d5f36661-c06c-4dd3-88c5-96f04ee1d2c3)
 
 
 
